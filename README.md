@@ -8,9 +8,9 @@ After many years of wondering about how systems in my environment work under the
 
 | Name            | Description                                 | Tech/tools                                                   |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------ |
-| [**Ratify**](https://github.com/EvSivtsova/ratify) | A mobile app for owners of exotic pets      | React Native, JavaScript, MongoDB, Node.js, Exress.js & Jest |
-| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| Facebook clone: group project at Makers     | JavaScript, Node.JS, Handlebars.js Jest, Cypress & Heroku    |
-| [**Makers BnB**](https://github.com/shaunywho/MakersBNB)| AirBnB Clone: first group project at Makers | Ruby, Jest, SQL, Handlebars.js & Bootstrap.js                |
+| [**Ratify**](https://github.com/EvSivtsova/ratify) | A cross platform mobile app where owners of exotic pets can find useful tools and information for all their pet's needs.     | React Native, JavaScript, MongoDB, Node.js, Express.js & Jest |
+| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| This Facebook: group project at Makers Academy     | JavaScript, Node.JS, Bootstrap, Handlebars.js Jest, Cypress & Heroku    |
+| [**Makers BnB**](https://github.com/shaunywho/MakersBNB)| AirBnB Clone: first group project at Makers | Ruby, Jest, PostgreSQL, Handlebars.js & Bootstrap.js                |
 | [**Bank App**](https://github.com/delphiine/bank-app)  | Bank Tech Test                              | JavaScript, Eslint & RSpec                                   |
 | [**Bowling**](https://github.com/delphiine/bowling-challenge-ruby)   | A scorecard for bowling games               | Ruby, SimpleCov & RSpec                                      |
 
@@ -41,6 +41,7 @@ Although making changes to the land page was outside the scope of my role, disco
 
 #### Makers Academy (June 2022 to September 2022)
 - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Used diagramming to plan how to approach small tasks and big challenges
 - OOP, TDD, MVC
 - Agile workflow
 - Ruby, React Native, JavaScript, Node.js

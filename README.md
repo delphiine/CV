@@ -6,10 +6,13 @@ After many years of wondering about how systems in my environment work under the
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name            | Description                                 | Tech/tools                                                   |
+| --------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| [**Ratify**](https://github.com/EvSivtsova/ratify) | A mobile app for owners of exotic pets      | React Native, JavaScript, MongoDB, Node.js, Exress.js & Jest |
+| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| Facebook clone: group project at Makers     | JavaScript, Node.JS, Handlebars.js Jest, Cypress & Heroku    |
+| [**Makers BnB**](https://github.com/shaunywho/MakersBNB)| AirBnB Clone: first group project at Makers | Ruby, Jest, SQL, Handlebars.js & Bootstrap.js                |
+| [**Bank App**](https://github.com/delphiine/bank-app)  | Bank Tech Test                              | JavaScript, Eslint & RSpec                                   |
+| [**Bowling**](https://github.com/delphiine/bowling-challenge-ruby)   | A scorecard for bowling games               | Ruby, SimpleCov & RSpec                                      |
 
 ## Skills
 
@@ -37,13 +40,11 @@ Although making changes to the land page was outside the scope of my role, disco
 ## Education
 
 #### Makers Academy (June 2022 to September 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- OOP, TDD, MVC
+- Agile workflow
+- Ruby, React Native, JavaScript, Node.js
+- RSpec, Jest, Cypress, Eslint, SimpleCov
 
 #### Stockholm University, Sweden (2017 to 2019)
 

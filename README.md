@@ -1,7 +1,5 @@
 ## Delphine Mubiligi
-<div align="center">
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/delphine-mubiligi/)
-</div>
 
 With a background in marketing and literature, I have always had a keen interest in languages and communication. Not only human-to-human communication, but also how we evolve and interact through the technologies around us. After interacting with numerous customer service chatbots, I decided to dive deeper into the phenomena by conducting a masters thesis on the topic. The thesis analysed the advantages and disadvantages of using chatbots rather than humans when communicating with customers, and how the interactions impact consumers' emotional response to the brand. 
 

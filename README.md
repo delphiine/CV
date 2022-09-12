@@ -10,7 +10,7 @@ After many years of wondering about how systems in my environment work under the
 | Name            | Description                                 | Tech/tools                                                   |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------ |
 | [**Ratify**](https://github.com/EvSivtsova/ratify) | A cross platform mobile app where owners of exotic pets can find useful tools and information for all their pet's needs. This group project was submitted as the final engineering project at Makers.     | React Native, JavaScript, MongoDB, Node.js, Express.js & Jest |
-| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| As a team, we built a clone of Facebook that allows users to sign-up, create and delete posts, as weell as commenting on posts. Users can also view profile pages.      | JavaScript, Node.JS, Bootstrap, Handlebars.js Jest, Cypress & Heroku    |
+| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| As a team, we built a clone of Facebook that allows users to sign-up, create and delete posts, as well as commenting on posts. Users can also view profile pages.      | JavaScript, Node.JS, Bootstrap, Handlebars.js Jest, Cypress & Heroku    |
 | [**Makers BnB**](https://github.com/shaunywho/MakersBNB)| Group project - An AirBnB clone where property owns can list their properties. They can also approve or requests made by other users on their properties' pages.  | Ruby, Jest, PostgreSQL, Handlebars.js & Bootstrap.js                |
 | [**Bank App**](https://github.com/delphiine/bank-app)  | This tech test allows users to make deposits, withdraw funds and print a bank statement.                               | JavaScript, Eslint & RSpec                                   |
 | [**Bowling**](https://github.com/delphiine/bowling-challenge-ruby)   | A bowling scorecards that takes rolls as input from a user and dynamically updates the total score.           | Ruby, SimpleCov & RSpec                                      |
@@ -41,7 +41,7 @@ Although making changes to the land page was outside the scope of my role, disco
 ## Education
 
 #### Makers Academy (June 2022 to September 2022)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Frequently used paring in order to problemsolve efficiently, requiring teamwork and communication.
 - Used diagramming to plan how to approach small tasks and big challenges
 - OOP, TDD, MVC
 - Agile workflow

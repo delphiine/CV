@@ -1,4 +1,7 @@
 ## Delphine Mubiligi
+<div align="center">
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) | [LinkedIn](https://www.linkedin.com/in/delphine-mubiligi/)
+</div>
 
 With a background in marketing and literature, I have always had a keen interest in languages and communication. Not only human-to-human communication, but also how we evolve and interact through the technologies around us. After interacting with numerous customer service chatbots, I decided to dive deeper into the phenomena by conducting a masters thesis on the topic. The thesis analysed the advantages and disadvantages of using chatbots rather than humans when communicating with customers, and how the interactions impact consumers' emotional response to the brand. 
 
@@ -8,11 +11,11 @@ After many years of wondering about how systems in my environment work under the
 
 | Name            | Description                                 | Tech/tools                                                   |
 | --------------- | ------------------------------------------- | ------------------------------------------------------------ |
-| [**Ratify**](https://github.com/EvSivtsova/ratify) | A cross platform mobile app where owners of exotic pets can find useful tools and information for all their pet's needs.     | React Native, JavaScript, MongoDB, Node.js, Express.js & Jest |
-| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| This Facebook: group project at Makers Academy     | JavaScript, Node.JS, Bootstrap, Handlebars.js Jest, Cypress & Heroku    |
-| [**Makers BnB**](https://github.com/shaunywho/MakersBNB)| AirBnB Clone: first group project at Makers | Ruby, Jest, PostgreSQL, Handlebars.js & Bootstrap.js                |
-| [**Bank App**](https://github.com/delphiine/bank-app)  | Bank Tech Test                              | JavaScript, Eslint & RSpec                                   |
-| [**Bowling**](https://github.com/delphiine/bowling-challenge-ruby)   | A scorecard for bowling games               | Ruby, SimpleCov & RSpec                                      |
+| [**Ratify**](https://github.com/EvSivtsova/ratify) | A cross platform mobile app where owners of exotic pets can find useful tools and information for all their pet's needs. This group project was submitted as the final engineering project at Makers.     | React Native, JavaScript, MongoDB, Node.js, Express.js & Jest |
+| [**Acebook**](https://github.com/karolina-codes/acebook-node-milton)| As a team, we built a clone of Facebook that allows users to sign-up, create and delete posts, as weell as commenting on posts. Users can also view profile pages.      | JavaScript, Node.JS, Bootstrap, Handlebars.js Jest, Cypress & Heroku    |
+| [**Makers BnB**](https://github.com/shaunywho/MakersBNB)| Group project - An AirBnB clone where property owns can list their properties. They can also approve or requests made by other users on their properties' pages.  | Ruby, Jest, PostgreSQL, Handlebars.js & Bootstrap.js                |
+| [**Bank App**](https://github.com/delphiine/bank-app)  | This tech test allows users to make deposits, withdraw funds and print a bank statement.                               | JavaScript, Eslint & RSpec                                   |
+| [**Bowling**](https://github.com/delphiine/bowling-challenge-ruby)   | A bowling scorecards that takes rolls as input from a user and dynamically updates the total score.           | Ruby, SimpleCov & RSpec                                      |
 
 ## Skills
 

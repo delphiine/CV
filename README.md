@@ -91,13 +91,4 @@ Tasks included:
 - Representing LEGO Group at external events, such as DreamHack
 
 ## Hobbies
-
-Learning languages, and meeting people from different cultures and backgrounds
- - Fluent in: Swedish, English & Kinyarwanda
- - Can hold simple conversations in: French, Norwegian & Japanese
-
-Learning to play the guitar
- - A relaxing way to clear my mind in-between intense and fun coding sessions
-
- Baking
- - Nordic pastries are my guilty pleasure. Friends usually ask for my Swedish "Mockarutor"
+Learning to play the guitar · Studying French and Japanese · Coding · Yoga ·  Hiking ·  Baking
